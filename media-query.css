@@ -56,4 +56,7 @@
           background: none;
           border: none;
      }
+     div.footer {
+          display: flex;
+     }
 }

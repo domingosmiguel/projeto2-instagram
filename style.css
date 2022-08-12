@@ -434,3 +434,15 @@ input:focus,
 select:focus {
      outline: 0;
 }
+div.footer {
+     display: none;
+     background-color: #fafafa;
+     width: 100vw;
+     height: 54px;
+     padding: 0 16px;
+     justify-content: space-between;
+     align-items: center;
+     position: fixed;
+     bottom: 0;
+     z-index: 10;
+}
